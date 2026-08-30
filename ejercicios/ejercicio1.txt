@@ -1,0 +1,6 @@
+   Ejercicio 1
+
+   Crear un programa que solicite dos números
+   y muestre su suma.
+
+   Actualización: validar que los datos ingresados sean numéricos.
