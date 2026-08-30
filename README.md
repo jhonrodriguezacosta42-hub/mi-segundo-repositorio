@@ -6,7 +6,7 @@ Este repositorio fue creado para aprender los fundamentos de GitHub.
 
 ## Autor
 
-Tu nombre aquí
+jhon eyder, jeison
 
 ## Tecnologías
 
