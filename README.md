@@ -1,2 +1,19 @@
-# mi-segundo-repositorio
-Primer repositorio creado como práctica de control de versiones y utilización de GitHub.
+# Mi primer repositorio
+
+## Descripción
+
+Este repositorio fue creado para aprender los fundamentos de GitHub.
+
+## Autor
+
+Tu nombre aquí
+
+## Tecnologías
+
+- Git
+- GitHub
+- Markdown
+
+## Objetivo
+
+Aprender a utilizar repositorios y control de versiones.
